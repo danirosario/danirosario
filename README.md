@@ -24,16 +24,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=danirosario&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![danirosario's Stats](https://github-readme-stats.vercel.app/api?username=danirosario&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danirosario/danirosario/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danirosario/danirosario/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danirosario/danirosario/output/pacman-contribution-graph.svg">
-</picture>
+![danirosario's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danirosario&theme=midnight-purple&hide_border=true)
 
 ###
+
+![danirosario's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danirosario&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
