@@ -24,10 +24,6 @@
 
 ###
 
-![danirosario's Stats](https://github-readme-stats.vercel.app/api?username=danirosario&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
-###
-
 ![danirosario's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danirosario&theme=midnight-purple&hide_border=true)
 
 ###
