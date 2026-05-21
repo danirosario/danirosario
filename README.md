@@ -1,8 +1,8 @@
-<div align="center">
-
-<h1>── ⋆⋅☆⋅⋆ ── Daniela Toledo, desenvolvedora web ── ⋆⋅☆⋅⋆ ──</h1>
-
+<div align="">
+  
 <div align="left">
+<h1>Daniela Toledo, desenvolvedora web ── ⋆⋅☆⋅⋆ ──</h1>
+
   <p>
       Iniciei minha trajetória no Design Gráfico e de Mídias Digitais, mas foi na programação que encontrei meu propósito profissional. 
       Atualmente, curso Análise e Desenvolvimento de Sistemas e Técnico em Informática, unindo uma base sólida em UI/UX à construção de software. 
