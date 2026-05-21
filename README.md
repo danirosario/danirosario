@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>💻 Daniela Toledo, desenvolvedora web e designer</h1>
+<h1>── ⋆⋅☆⋅⋆ ── Daniela Toledo, desenvolvedora web ── ⋆⋅☆⋅⋆ ──</h1>
 
 <div align="left">
   <p>
