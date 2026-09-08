@@ -5,7 +5,7 @@
 
   <p>
       Iniciei minha trajetória no Design Gráfico e de Mídias Digitais, mas foi na programação que encontrei meu propósito profissional. 
-      Atualmente, curso Análise e Desenvolvimento de Sistemas e Técnico em Informática, unindo uma base sólida em UI/UX à construção de software. 
+      Sou formada em Técnico em informática (SENAC) e curso Análise e Desenvolvimento de Sistemas (FATEC), unindo uma base sólida em UI/UX à construção de software. 
       Meu foco é atuar na interseção entre código e design, desenvolvendo soluções que equilibram lógica com interfaces funcionais e esteticamente atraentes.
   </p>
   <hr>
